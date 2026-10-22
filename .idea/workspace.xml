@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dd122ab-e3c0-446e-822f-d661e253ae94" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/depanare/tinte.json" beforeDir="false" afterPath="$PROJECT_DIR$/depanare/tinte.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depanare/inventar.py" beforeDir="false" afterPath="$PROJECT_DIR$/depanare/inventar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
